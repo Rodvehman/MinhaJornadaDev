@@ -44,28 +44,28 @@
                     </ul>
                 </div>
                 <div class="modulo azul">
-                    <h3>3. Variáveis</h3>
+                    <h3>3. O que aprendi em cada UC?</h3>
                     <ul>
                         <li>
-                            <a href="exercicio.php?dir=variaveis&file=desafio_equacao">Desafio Equação</a>
+                            <a href="exercicio.php?dir=ucs&file=uc1">UC1 – Planejamento e Arquitetura</a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=variaveis&file=atribuicoes">Atribuições</a>
+                            <a href="exercicio.php?dir=ucs&file=uc2">UC2 – Construção de Aplicações Front-End</a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=variaveis&file=interpolacao">Interpolacao</a>
+                            <a href="exercicio.php?dir=ucs&file=uc3">UC3 – Publicação de Aplicações Web</a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=variaveis&file=variaveis_variaveis">Variáveis Variáveis</a>
+                            <a href="exercicio.php?dir=ucs&file=variaveis_variaveis">Variáveis Variáveis</a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=variaveis&file=desafio_variaveis_variaveis">Desafio Variáveis Variáveis</a>
+                            <a href="exercicio.php?dir=ucs&file=desafio_variaveis_variaveis">Desafio Variáveis Variáveis</a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=variaveis&file=valor_referencia">Valor vs Referência</a>
+                            <a href="exercicio.php?dir=ucs&file=valor_referencia">Valor vs Referência</a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=variaveis&file=constantes">Constantes</a>
+                            <a href="exercicio.php?dir=ucs&file=constantes">Constantes</a>
                         </li>
                     </ul>
                 </div>
