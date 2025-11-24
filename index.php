@@ -79,7 +79,7 @@
                             <a href="exercicio.php?dir=evolucao&file=quem_sou_agora">Quem sou agora</a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=evolucao&file=desafio_pi">Desafio PI</a>
+                            <a href="exercicio.php?dir=evolucao&file=o_que_era_dificil">O que era difícil e hoje é fácil</a>
                         </li>
                         <li>
                             <a href="exercicio.php?dir=evolucao&file=operadores_logicos">Op. Lógicos</a>
