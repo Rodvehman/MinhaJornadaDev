@@ -25,13 +25,7 @@
                             <a href="exercicio.php?dir=sobre_mim&file=objetivos">Meus Objetivos</a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=sobre_mim&file=css">Integração CSS</a>
-                        </li>
-                        <li>
-                            <a href="exercicio.php?dir=sobre_mim&file=comentarios">Comentários PHP</a>
-                        </li>
-                        <li>
-                            <a href="exercicio.php?dir=sobre_mim&file=desafio">Desafio</a>
+                            <a href="exercicio.php?dir=sobre_mim&file=motivacao">Motivação</a>
                         </li>
                     </ul>
                 </div>
