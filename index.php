@@ -73,28 +73,28 @@
                     <h3>4. Como evoluí ao longo do curso?</h3>
                     <ul>
                         <li>
-                            <a href="exercicio.php?dir=controle&file=if_else">If Else</a>
+                            <a href="exercicio.php?dir=evolucao&file=quem_eu_era">Quem eu era antes</a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=controle&file=operadores_relacionais">Op. Relacionais</a>
+                            <a href="exercicio.php?dir=evolucao&file=quem_sou_agora">Quem sou agora</a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=controle&file=desafio_pi">Desafio PI</a>
+                            <a href="exercicio.php?dir=evolucao&file=desafio_pi">Desafio PI</a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=controle&file=operadores_logicos">Op. Lógicos</a>
+                            <a href="exercicio.php?dir=evolucao&file=operadores_logicos">Op. Lógicos</a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=controle&file=desafio_operadores_logicos">Desafio Op. Lógicos</a>
+                            <a href="exercicio.php?dir=evolucao&file=desafio_operadores_logicos">Desafio Op. Lógicos</a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=controle&file=operador_ternario">Op. Ternário</a>
+                            <a href="exercicio.php?dir=evolucao&file=operador_ternario">Op. Ternário</a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=controle&file=switch">Switch</a>
+                            <a href="exercicio.php?dir=evolucao&file=switch">Switch</a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=controle&file=desafio_switch">Desafio Switch</a>
+                            <a href="exercicio.php?dir=evolucao&file=desafio_switch">Desafio Switch</a>
                         </li>
                     </ul>
                 </div>
