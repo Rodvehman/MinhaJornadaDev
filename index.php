@@ -9,29 +9,29 @@
 </head>
 <body>
     <header class="cabecalho">
-        <h1>Curso PHP</h1>
+        <h1>Rodrigo A. Vehman - Minha Jornada FullStack!!</h1>
         <h2>Índice dos Exercícios</h2>
     </header>
     <main class="principal">
         <div class="conteudo">
             <nav class="modulos">
                 <div class="modulo verde">
-                    <h3>1. Básico</h3>
+                    <h3>1. Quem eu sou? Meus Objetivos</h3>
                     <ul>
                         <li>
-                            <a href="exercicio.php?dir=basico&file=ola">Rodrigo A. Vehman - Minha Jornada FullStack</a>
+                            <a href="exercicio.php?dir=sobre_mim&file=eu">Quem sou... Será que eu sei??</a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=basico&file=html">Integração HTML</a>
+                            <a href="exercicio.php?dir=sobre_mim&file=objetivos">Meus Objetivos</a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=basico&file=css">Integração CSS</a>
+                            <a href="exercicio.php?dir=sobre_mim&file=css">Integração CSS</a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=basico&file=comentarios">Comentários PHP</a>
+                            <a href="exercicio.php?dir=sobre_mim&file=comentarios">Comentários PHP</a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=basico&file=desafio">Desafio</a>
+                            <a href="exercicio.php?dir=sobre_mim&file=desafio">Desafio</a>
                         </li>
                     </ul>
                 </div>
@@ -225,7 +225,7 @@
         </div>
     </main>
     <footer class="rodape">
-        CODER & ALUNOS© <?= date('Y')?>
+        Exercício UC3 - SENAC Penha <?= date('Y')?>
     </footer>
 </body>
 </html>

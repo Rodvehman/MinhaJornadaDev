@@ -25,11 +25,6 @@
                 // {$_GET['file']}.php
                 include(__DIR__ . "/{$_GET['dir']}/{$_GET['file']}.php");
             ?>
-            <section>
-                <h6>Use os parâmetros no navegador...
-                    <p>Após o endereço, na barra do navegador<br/>Incluir<strong>?dir={diretório}&file={arquivo sem o .php}</strong></p>
-                </h6>
-            </section>
         </div>
     </main>
     <footer class="rodape">
