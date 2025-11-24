@@ -94,7 +94,10 @@
                             <a href="exercicio.php?dir=evolucao&file=autonomia">Autonomia</a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=evolucao&file=desafio_switch">Desafio Switch</a>
+                            <a href="exercicio.php?dir=evolucao&file=trabalho_em_equipe">Trabalho em equipe</a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=evolucao&file=resolucao_problemas">Resolução de problemas</a>
                         </li>
                     </ul>
                 </div>
