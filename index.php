@@ -137,19 +137,7 @@
                             <a href="exercicio.php?dir=como_estou&file=trabalho_equipe">Capacidade de trabalhar em equipe</a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=como_estou&file=break_continue">Break/Continue</a>
-                        </li>
-                        <li>
-                            <a href="exercicio.php?dir=como_estou&file=desafio_impressao">Desafio Impressão</a>
-                        </li>
-                        <li>
-                            <a href="exercicio.php?dir=como_estou&file=while_do_while">While/Do While</a>
-                        </li>
-                        <li>
-                            <a href="exercicio.php?dir=como_estou&file=desafio_tabela1">Desafio Tabela I</a>
-                        </li>
-                        <li>
-                            <a href="exercicio.php?dir=como_estou&file=desafio_tabela2">Desafio Tabela II</a>
+                            <a href="exercicio.php?dir=como_estou&file=seguranca">Segurança para encarar desafios profissionais</a>
                         </li>
                     </ul>
                 </div>
