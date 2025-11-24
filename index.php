@@ -10,7 +10,6 @@
 <body>
     <header class="cabecalho">
         <h1>Rodrigo A. Vehman - Minha Jornada FullStack!!</h1>
-        <h2>Índice dos Exercícios</h2>
     </header>
     <main class="principal">
         <div class="conteudo">
