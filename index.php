@@ -82,16 +82,16 @@
                             <a href="exercicio.php?dir=evolucao&file=o_que_era_dificil">O que era difícil e hoje é fácil</a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=evolucao&file=operadores_logicos">Op. Lógicos</a>
+                            <a href="exercicio.php?dir=evolucao&file=maiores_desafios_superados">Maiores desafios superados</a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=evolucao&file=desafio_operadores_logicos">Desafio Op. Lógicos</a>
+                            <a href="exercicio.php?dir=evolucao&file=comunicacao">Comunicação</a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=evolucao&file=operador_ternario">Op. Ternário</a>
+                            <a href="exercicio.php?dir=evolucao&file=organizacao">Organização</a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=evolucao&file=switch">Switch</a>
+                            <a href="exercicio.php?dir=evolucao&file=autonomia">Autonomia</a>
                         </li>
                         <li>
                             <a href="exercicio.php?dir=evolucao&file=desafio_switch">Desafio Switch</a>
