@@ -102,40 +102,40 @@
                     </ul>
                 </div>
                 <div class="modulo laranja">
-                    <h3>5. Arrays</h3>
+                    <h3>5. Em que parte do Full Stack mais me identifico?</h3>
                     <ul>
                         <li>
-                            <a href="exercicio.php?dir=arrays&file=basico">Arrays</a>
+                            <a href="exercicio.php?dir=identificacao&file=front_end">Front-end</a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=arrays&file=mapa">Mapa</a>
+                            <a href="exercicio.php?dir=identificacao&file=mapa">Mapa</a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=arrays&file=desafio_index">Desafio Index</a>
+                            <a href="exercicio.php?dir=identificacao&file=desafio_index">Desafio Index</a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=arrays&file=desafio_meses">Desafio Meses</a>
+                            <a href="exercicio.php?dir=identificacao&file=desafio_meses">Desafio Meses</a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=arrays&file=operacoes">Operações</a>
+                            <a href="exercicio.php?dir=identificacao&file=operacoes">Operações</a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=arrays&file=desafio_sorteio">Desafio Sorteio</a>
+                            <a href="exercicio.php?dir=identificacao&file=desafio_sorteio">Desafio Sorteio</a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=arrays&file=multidimensionais">Multidimensionais</a>
+                            <a href="exercicio.php?dir=identificacao&file=multidimensionais">Multidimensionais</a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=arrays&file=arrays_constantes">Arrays Constantes</a>
+                            <a href="exercicio.php?dir=identificacao&file=arrays_constantes">Arrays Constantes</a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=arrays&file=get">$_GET</a>
+                            <a href="exercicio.php?dir=identificacao&file=get">$_GET</a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=arrays&file=post">$_POST</a>
+                            <a href="exercicio.php?dir=identificacao&file=post">$_POST</a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=arrays&file=comparacao_array">Comparação de Arrays</a>
+                            <a href="exercicio.php?dir=identificacao&file=comparacao_array">Comparação de Arrays</a>
                         </li>
                     </ul>
                 </div>
