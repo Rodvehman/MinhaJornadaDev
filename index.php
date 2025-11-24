@@ -59,18 +59,18 @@
                             <a href="exercicio.php?dir=ucs&file=uc4">UC4 – Construção de Aplicações Back-End</a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=ucs&file=desafio_variaveis_variaveis">Desafio Variáveis Variáveis</a>
+                            <a href="exercicio.php?dir=ucs&file=uc5">UC5 – Banco de Dados</a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=ucs&file=valor_referencia">Valor vs Referência</a>
+                            <a href="exercicio.php?dir=ucs&file=uc6">UC6 – Serviços Web e Integrações</a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=ucs&file=constantes">Constantes</a>
+                            <a href="exercicio.php?dir=ucs&file=uc7">UC7 – Projeto Integrador</a>
                         </li>
                     </ul>
                 </div>
                 <div class="modulo roxo">
-                    <h3>4. Controle</h3>
+                    <h3>4. Como evoluí ao longo do curso?</h3>
                     <ul>
                         <li>
                             <a href="exercicio.php?dir=controle&file=if_else">If Else</a>
