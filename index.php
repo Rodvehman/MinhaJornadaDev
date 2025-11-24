@@ -131,10 +131,10 @@
                             <a href="exercicio.php?dir=como_estou&file=o_que_sei_fazer">O que já sei fazer bem?</a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=como_estou&file=desafio_for">Desafio For</a>
+                            <a href="exercicio.php?dir=como_estou&file=o_que_preciso_aprender">O que ainda preciso aprender?</a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=como_estou&file=foreach">Foreach</a>
+                            <a href="exercicio.php?dir=como_estou&file=trabalho_equipe">Capacidade de trabalhar em equipe</a>
                         </li>
                         <li>
                             <a href="exercicio.php?dir=como_estou&file=break_continue">Break/Continue</a>
