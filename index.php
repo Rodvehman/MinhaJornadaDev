@@ -56,7 +56,7 @@
                             <a href="exercicio.php?dir=ucs&file=uc3">UC3 – Publicação de Aplicações Web</a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=ucs&file=variaveis_variaveis">Variáveis Variáveis</a>
+                            <a href="exercicio.php?dir=ucs&file=uc4">UC4 – Construção de Aplicações Back-End</a>
                         </li>
                         <li>
                             <a href="exercicio.php?dir=ucs&file=desafio_variaveis_variaveis">Desafio Variáveis Variáveis</a>
