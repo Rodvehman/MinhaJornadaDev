@@ -125,31 +125,31 @@
                     </ul>
                 </div>
                 <div class="modulo verde-escuro">
-                    <h3>6. Repetições</h3>
+                    <h3>6. Me sinto preparado(a) para o mercado?</h3>
                     <ul>
                         <li>
-                            <a href="exercicio.php?dir=repeticoes&file=for">Laço For</a>
+                            <a href="exercicio.php?dir=como_estou&file=o_que_sei_fazer">O que já sei fazer bem?</a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=repeticoes&file=desafio_for">Desafio For</a>
+                            <a href="exercicio.php?dir=como_estou&file=desafio_for">Desafio For</a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=repeticoes&file=foreach">Foreach</a>
+                            <a href="exercicio.php?dir=como_estou&file=foreach">Foreach</a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=repeticoes&file=break_continue">Break/Continue</a>
+                            <a href="exercicio.php?dir=como_estou&file=break_continue">Break/Continue</a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=repeticoes&file=desafio_impressao">Desafio Impressão</a>
+                            <a href="exercicio.php?dir=como_estou&file=desafio_impressao">Desafio Impressão</a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=repeticoes&file=while_do_while">While/Do While</a>
+                            <a href="exercicio.php?dir=como_estou&file=while_do_while">While/Do While</a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=repeticoes&file=desafio_tabela1">Desafio Tabela I</a>
+                            <a href="exercicio.php?dir=como_estou&file=desafio_tabela1">Desafio Tabela I</a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=repeticoes&file=desafio_tabela2">Desafio Tabela II</a>
+                            <a href="exercicio.php?dir=como_estou&file=desafio_tabela2">Desafio Tabela II</a>
                         </li>
                     </ul>
                 </div>
