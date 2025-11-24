@@ -120,22 +120,7 @@
                             <a href="exercicio.php?dir=identificacao&file=ux">UX / usabilidade</a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=identificacao&file=desafio_sorteio">Desafio Sorteio</a>
-                        </li>
-                        <li>
-                            <a href="exercicio.php?dir=identificacao&file=multidimensionais">Multidimensionais</a>
-                        </li>
-                        <li>
-                            <a href="exercicio.php?dir=identificacao&file=arrays_constantes">Arrays Constantes</a>
-                        </li>
-                        <li>
-                            <a href="exercicio.php?dir=identificacao&file=get">$_GET</a>
-                        </li>
-                        <li>
-                            <a href="exercicio.php?dir=identificacao&file=post">$_POST</a>
-                        </li>
-                        <li>
-                            <a href="exercicio.php?dir=identificacao&file=comparacao_array">Comparação de Arrays</a>
+                            <a href="exercicio.php?dir=identificacao&file=logica">Lógica</a>
                         </li>
                     </ul>
                 </div>
