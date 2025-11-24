@@ -108,16 +108,16 @@
                             <a href="exercicio.php?dir=identificacao&file=front_end">Front-end</a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=identificacao&file=mapa">Mapa</a>
+                            <a href="exercicio.php?dir=identificacao&file=back_end">Back-end</a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=identificacao&file=desafio_index">Desafio Index</a>
+                            <a href="exercicio.php?dir=identificacao&file=banco_de_dados">Banco de dados</a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=identificacao&file=desafio_meses">Desafio Meses</a>
+                            <a href="exercicio.php?dir=identificacao&file=integracoes">Integrações</a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=identificacao&file=operacoes">Operações</a>
+                            <a href="exercicio.php?dir=identificacao&file=ux">UX / usabilidade</a>
                         </li>
                         <li>
                             <a href="exercicio.php?dir=identificacao&file=desafio_sorteio">Desafio Sorteio</a>
