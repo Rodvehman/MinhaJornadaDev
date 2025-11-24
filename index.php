@@ -145,34 +145,13 @@
                     <h3>7. Meus próximos passos:</h3>
                     <ul>
                         <li>
-                            <a href="exercicio.php?dir=proximos_passos&file=escopo">Função & Escopo</a>
+                            <a href="exercicio.php?dir=proximos_passos&file=area_interesse">Área de interesse</a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=proximos_passos&file=args_retorno">Argumentos e Retorno</a>
+                            <a href="exercicio.php?dir=proximos_passos&file=objetivo_curto_prazo">Objetivos de curto prazo</a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=proximos_passos&file=desafio_palindromo">Desafio Palíndromo</a>
-                        </li>
-                        <li>
-                            <a href="exercicio.php?dir=proximos_passos&file=argumentos_variaveis">Argumentos Variáveis</a>
-                        </li>
-                        <li>
-                            <a href="exercicio.php?dir=proximos_passos&file=argumento_padrao">Argumento Padrão</a>
-                        </li>
-                        <li>
-                            <a href="exercicio.php?dir=proximos_passos&file=usando_tipos">Usando Tipos</a>
-                        </li>
-                        <li>
-                            <a href="exercicio.php?dir=proximos_passos&file=funcoes_anonimas">Funções Anônimas</a>
-                        </li>
-                        <li>
-                            <a href="exercicio.php?dir=proximos_passos&file=closure_callable">Closure & Callable</a>
-                        </li>
-                        <li>
-                            <a href="exercicio.php?dir=proximos_passos&file=recursividade">Recursividade</a>
-                        </li>
-                        <li>
-                            <a href="exercicio.php?dir=proximos_passos&file=desafio_recursao">Desafio Recursão</a>
+                            <a href="exercicio.php?dir=proximos_passos&file=pontos_melhoria">Ponto que quero fortalecer como profissional</a>
                         </li>
                     </ul>
                 </div>
